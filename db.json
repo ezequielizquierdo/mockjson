@@ -4,7 +4,8 @@
         "id": 1,
         "title": "ESCRITORIO OM",
         "price": 105.220,
-        "description": "Material: Realizado en madera enchapada en Laurel con patas de hierro negro. Opciones: Madera enchapada en petiribi y paraíso. Medidas 150x50x75h. Producto que realizamos a medida, solicitar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "description": 
+            "Material: Realizado en madera enchapada en Laurel con patas de hierro negro. \nOpciones: Madera enchapada en petiribi y paraíso. \nMedidas 150x50x75h. \nProducto que realizamos a medida, solicitar presupuesto. \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco.",
         "category": "escritorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_5253-2_1800x1800.jpg?v=1593804405"
     },
@@ -12,7 +13,7 @@
         "id": 2,
         "title": "ESCRITORIO STUDIODESK",
         "price": 61.347,
-        "description": "Material: Realizado con madera paraíso. Medidas: 120x60x72H. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "description": "Material: Realizado con madera paraíso. \nMedidas: 120x60x72H. \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco.",
         "category": "escritorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_4981_2_1800x1800.jpg?v=1578952403"
     },
@@ -20,7 +21,7 @@
         "id": 3,
         "title": "ESCRITORIO WEEKENDER",
         "price": 49.434,
-        "description": "Material: Realizado consus caballetes en madera petiribi maciza combinado con su tapa laqueada blanca poliuretánica (Base de MDF). Opciones: Con sus patas en madera paraíso combinado con su tapa blanca. Medidas: 140x60x75H o 160x60x75H. Producto que realizamos a medida, solicitar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "description": "Material: Realizado consus caballetes en madera petiribi maciza combinado con su tapa laqueada blanca poliuretánica (Base de MDF). \nOpciones: Con sus patas en madera paraíso combinado con su tapa blanca. \nMedidas: 140x60x75H o 160x60x75H. \nProducto que realizamos a medida, solicitar presupuesto. \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco.",
         "category": "escritorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_7927_1400x.jpg?v=1578952120"
     },
@@ -28,7 +29,7 @@
         "id": 4,
         "title": "ESCRITORIO WORKSPACE",
         "price": 66.864,
-        "description": "Material: Realizado en madera enchapada en petiribi. Opciones:  Madera enchapada en paraíso, laurel o blanco laqueado. Medidas: 140x50x75h. Producto que realizamos a medida, consultar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "description": "Material: Realizado en madera enchapada en petiribi. \nOpciones:  Madera enchapada en paraíso, laurel o blanco laqueado. \nMedidas: 140x50x75h. \nProducto que realizamos a medida, consultar presupuesto. \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco.",
         "category": "escritorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_7987_1800x1800.jpg?v=1578951375"
     },
@@ -36,7 +37,7 @@
         "id": 5,
         "title": "ESCRITORIO NONNA",
         "price": 89.295,
-        "description": "Material: Realizado en madera laurel maciza con patas de hierro negro. Medidas 180x66x75H. Producto que realizamos a medida, consultar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "description": "Material: Realizado en madera laurel maciza con patas de hierro negro. \nMedidas 180x66x75H. \nProducto que realizamos a medida, consultar presupuesto. \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco.",
         "category": "escritorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_5268-2_1400x.jpg?v=1594141403"
     },
@@ -44,7 +45,7 @@
         "id": 6,
         "title": "ESCRITORIO BOHEMIAN",
         "price": 91.482,
-        "description": "Material: Realizado en madera guayubira maciza con tratamiento artesanal que simula el envejecimiento natural de la madera. Opciones: color negro, gris o natural. Medidas:  210x60x76h Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "description": "Material: Realizado en madera guayubira maciza con tratamiento artesanal que simula el envejecimiento natural de la madera. \nOpciones: color negro, gris o natural. \nMedidas:  210x60x76h \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco.",
         "category": "escritorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_7827_1400x.jpg?v=1578337449"
     },
@@ -52,7 +53,7 @@
         "id": 7,
         "title": "SILLA LONDRES",
         "price": 59.804,
-        "description": "Material: Petiribi, tapizado en lienzo crudo + funda a eleccion. Medidas: Origen: Nacional",
+        "description": "Material: Petiribi, tapizado en lienzo crudo + funda a eleccion. \nMedidas: Origen: Nacional",
         "category": "sillas",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_4626_1800x1800.jpg?v=1615479823"
     },
@@ -60,7 +61,7 @@
         "id": 8,
         "title": "SILLA FIYI TAPIZADA",
         "price": 24.677,
-        "description": "Material: Realizada en madera paraíso. Producto que se realiza tapizado a elección, solicitar muestrario de tela. Opciones: Madera Petiribi. Medidas 40x42x87H *Altura hasta el asiento 46 cm. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco",
+        "description": "Material: Realizada en madera paraíso. \nProducto que se realiza tapizado a elección, solicitar muestrario de tela. \nOpciones: Madera Petiribi. \nMedidas 40x42x87H \n*Altura hasta el asiento 46 cm. \nOrigen: Nacional. \nCuidados: Limpieza con paño semi-húmedo o seco",
         "category": "sillas",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_2670_1800x1800.jpg?v=1575922715"
     } 
