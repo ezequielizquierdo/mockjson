@@ -31,6 +31,39 @@
         "description": "Material: Bordado a mano sobre arpillera con marco de madera. Medidas 200x100h",
         "category": "accesorios",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_5397_1400x.jpg?v=1595039891"
-    }
+    },
+        {
+        "id": 5,
+        "title": "ESCRITORIO NONNA",
+        "price": 89.295,
+        "description": "Material: Realizado en madera laurel maciza con patas de hierro negro. Medidas 180x66x75H. Producto que realizamos a medida, consultar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "escritorios",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_5268-2_1400x.jpg?v=1594141403"
+    },
+    {
+        "id": 6,
+        "title": "ESCRITORIO BOHEMIAN",
+        "price": 91.482,
+        "description": "Material: Realizado en madera guayubira maciza con tratamiento artesanal que simula el envejecimiento natural de la madera. Opciones: color negro, gris o natural. Medidas:  210x60x76h Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "escritorios",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_7827_1400x.jpg?v=1578337449"
+    },
+    {
+        "id": 7,
+        "title": "SILLA LONDRES",
+        "price": 59.804,
+        "description": "Material: Petiribi, tapizado en lienzo crudo + funda a eleccion. Medidas: Origen: Nacional",
+        "category": "sillas",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_4626_1800x1800.jpg?v=1615479823"
+    },
+    {
+        "id": 8,
+        "title": "SILLA FIYI TAPIZADA",
+        "price": 24.677,
+        "description": "Material: Realizada en madera paraíso. Producto que se realiza tapizado a elección, solicitar muestrario de tela. Opciones: Madera Petiribi. Medidas 40x42x87H *Altura hasta el asiento 46 cm. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco",
+        "category": "sillas",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_2670_1800x1800.jpg?v=1575922715"
+    },
+        
 ]
 }
