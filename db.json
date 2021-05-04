@@ -1,6 +1,6 @@
 {
     "products": [
-    {
+        {
         "id": 1,
         "title": "ESCRITORIO OM",
         "price": 105.220,
@@ -10,29 +10,29 @@
     },
     {
         "id": 2,
-        "title": "SILLA LONDRES",
-        "price": 59.804,
-        "description": "Material: Petiribi, tapizado en lienzo crudo + funda a eleccion. Medidas: Origen: Nacional",
-        "category": "sillas",
-        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_4626_1800x1800.jpg?v=1615479823"
+        "title": "ESCRITORIO STUDIODESK",
+        "price": 61.347,
+        "description": "Material: Realizado con madera paraíso. Medidas: 120x60x72H. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "escritorios",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_4981_2_1800x1800.jpg?v=1578952403"
     },
     {
         "id": 3,
-        "title": "SILLÓN CHILLING",
-        "price": 347.875,
-        "description": "Medidas 240X90. También se realiza a medida",
-        "category": "sillones",
-        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_3529-2_1800x1800.jpg?v=1612884839"
+        "title": "ESCRITORIO WEEKENDER",
+        "price": 49.434,
+        "description": "Material: Realizado consus caballetes en madera petiribi maciza combinado con su tapa laqueada blanca poliuretánica (Base de MDF). Opciones: Con sus patas en madera paraíso combinado con su tapa blanca. Medidas: 140x60x75H o 160x60x75H. Producto que realizamos a medida, solicitar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "escritorios",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
     },
     {
         "id": 4,
-        "title": "CUADRO UNDERWATER",
-        "price": 84.398,
-        "description": "Material: Bordado a mano sobre arpillera con marco de madera. Medidas 200x100h",
-        "category": "accesorios",
-        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_5397_1400x.jpg?v=1595039891"
+        "title": "ESCRITORIO WORKSPACE",
+        "price": 66.864,
+        "description": "Material: Realizado en madera enchapada en petiribi. Opciones:  Madera enchapada en paraíso, laurel o blanco laqueado. Medidas: 140x50x75h. Producto que realizamos a medida, consultar presupuesto. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "escritorios",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_7987_1800x1800.jpg?v=1578951375"
     },
-        {
+    {
         "id": 5,
         "title": "ESCRITORIO NONNA",
         "price": 89.295,
@@ -64,6 +64,37 @@
         "category": "sillas",
         "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_2670_1800x1800.jpg?v=1575922715"
     },
-        
+    {
+        "id": 9,
+        "title": "SILLA CHIC",
+        "price": 28.650,
+        "description": "Material: Realizada en teca y esterilla. Medidas: 67x52x80H. Origen: Indonesia. Cuidados: Limpieza con paño semi-húmedo o seco",
+        "category": "sillas",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/WoodMarket202006250049-3_1800x1800.jpg?v=1594354527"
+    },
+    {
+        "id": 10,
+        "title": "SILLA PAUSA CABECERA",
+        "price": 71.575,
+        "description": "Material: Realizada en madera petiribi. Producto que se realiza tapizado a elección, solicitar muestrario de tela. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "sillas",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/WhatsAppImage2020-07-13at16.32.23_1013x1013.jpg?v=1594674853"
+    },
+    {
+        "id": 11,
+        "title": "SILLA MILANO",
+        "price": 41.212,
+        "description": "Material: Realizada en caña de bambú y rattan sintético. Medidas: 50x42x85h. Altura hasta el asiento 45 cm. Origen: India. Cuidados: Limpieza con paño semi-húmedo o seco",
+        "category": "sillas",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_9081_1400x.jpg?v=1575846475"
+    },
+    {
+        "id": 12,
+        "title": "SILLA TERTULIA",
+        "price": 62.644,
+        "description": "Material: Realizada en madera petiribi. Producto que se realiza tapizado a elección, solicitar muestrario de tela. Medidas: 55x55x80H. Altura hasta el asiento 48cm. Origen: Nacional. Cuidados: Limpieza con paño semi-húmedo o seco.",
+        "category": "sillas",
+        "image": "https://cdn.shopify.com/s/files/1/0252/3122/8975/products/DSC_7221_1400x.jpg?v=1598042511"
+    }   
 ]
 }
